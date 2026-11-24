@@ -1,0 +1,20 @@
+{
+  "dataset_name": "Current Daily Price of Various Commodities from Various Markets (Mandi)",
+  "publisher": "Ministry of Agriculture and Farmers Welfare, Government of India",
+  "source_url": "https://www.data.gov.in/catalog/current-daily-price-various-commodities-various-markets-mandi",
+  "retrieval_date": "2026-11-19",
+  "first_arrival_date": "2026-11-18",
+  "last_arrival_date": "2026-11-18",
+  "total_source_rows": 18083,
+  "onion_rows_before_validation": 583,
+  "clean_onion_rows": 583,
+  "excluded_rows": 0,
+  "states": 25,
+  "districts": 240,
+  "markets": 537,
+  "price_unit": "INR per quintal",
+  "source_file": "agmarknet_original.csv",
+  "source_file_sha256": "8146e1633a358d92c159437db0c28e351efb4d7269ca40527a2af5c3dc0eee19",
+  "period_limitation": "Only the arrival dates present in the downloaded source file are represented. This snapshot is not a 12-month historical series unless the source file contains that date range.",
+  "record_type": "Real government market-price observations; not batch-level traceability events."
+}

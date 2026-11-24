@@ -1,0 +1,584 @@
+state,district,market,commodity,variety,grade,arrival_date,min_price,max_price,modal_price
+Telangana,Hyderabad,RYTHU BAZAR FALAKNUMA,Onion,Onion,Grade A,2026-11-18,4000.0,4000.0,4000.0
+Keralam,Ernakulam,Aluva Market,Onion,Big,FAQ,2026-11-18,6000.0,7500.0,6800.0
+Punjab,Fazilka,Fazilka APMC,Onion,Onion,FAQ,2026-11-18,5000.0,5000.0,5000.0
+Madhya Pradesh,Narsinghpur,Gadarwada (F&V) APMC,Onion,Other,Grade B,2026-11-18,3800.0,3800.0,3800.0
+Gujarat,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana) APMC,Onion,Local,FAQ,2026-11-18,3000.0,4800.0,4600.0
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi) APMC,Onion,Other,FAQ,2026-11-18,3700.0,3700.0,3700.0
+Rajasthan,Hanumangarh,Bhadara APMC,Onion,1st Sort,Grade A,2026-11-18,3800.0,4500.0,4025.0
+Rajasthan,Hanumangarh,Goluwala APMC,Onion,1st Sort,Non-FAQ,2026-11-18,3800.0,4000.0,4000.0
+Keralam,Alappuzha,Mannar Market,Onion,Small,FAQ,2026-11-18,13500.0,13700.0,13600.0
+Jammu and Kashmir,Jammu,MAC F&V Market Narwal Jammu,Onion,Medium,FAQ,2026-11-18,4500.0,5000.0,4750.0
+Keralam,Thiruvananthapuram,Vamanapuram Market,Onion,Big,FAQ,2026-11-18,6500.0,7000.0,7000.0
+Keralam,Palakad,Pattambi Market,Onion,Onion,FAQ,2026-11-18,15000.0,16000.0,15500.0
+Madhya Pradesh,Indore,Sanwer(F&V) APMC,Onion,Onion,FAQ,2026-11-18,2500.0,4000.0,3500.0
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,7000.0,6000.0
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5600.0,7000.0,6300.0
+Maharashtra,Ahilyanagar,APMC Sangamner,Onion,Unhali,Local,2026-11-18,1000.0,4500.0,2750.0
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,4000.0,7000.0,5500.0
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6000.0,6000.0
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6400.0,6800.0,6600.0
+Tamil Nadu,Thiruppur,Kangayam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,5200.0,5100.0
+Tamil Nadu,Tiruvarur,Muthupettai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,5000.0,5000.0
+Tamil Nadu,Thanjavur,Peravurani(Uzhavar Sandhai),Onion,Bellary,Local,2026-11-18,5000.0,7000.0,6000.0
+Tamil Nadu,Sivagangai,Sivagangai (Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5200.0,6200.0,5700.0
+Tamil Nadu,Sivagangai,Karaikudi(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,7000.0,7500.0,7250.0
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6600.0,6600.0,6600.0
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,7000.0,6750.0
+Tamil Nadu,Thiruchirappalli,Thiruverumbur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6500.0,5750.0
+Maharashtra,Ahilyanagar,APMC Kopargaon,Onion,Unhali,Local,2026-11-18,1300.0,4262.0,3750.0
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5500.0,7000.0,6250.0
+Maharashtra,Nagpur,APMC Nagpur,Onion,White,Local,2026-11-18,4500.0,5500.0,5250.0
+Keralam,Palakad,Vadakkenchery Market,Onion,Small,FAQ,2026-11-18,15000.0,17000.0,15000.0
+Maharashtra,Nagpur,APMC Kamthi,Onion,Local,Local,2026-11-18,5000.0,6000.0,5650.0
+Tripura,North Tripura,Panisagar APMC,Onion,Nasik,Medium,2026-11-18,5400.0,5500.0,5450.0
+Maharashtra,Kolhapur,APMC Kolhapur,Onion,Other,Local,2026-11-18,1000.0,5700.0,3500.0
+Madhya Pradesh,Ratlam,Jaora APMC,Onion,Onion,FAQ,2026-11-18,401.0,4092.0,3000.0
+Gujarat,Anand,"Anand(Veg,Yard,Anand) APMC",Onion,Onion,Grade B,2026-11-18,3500.0,4500.0,4000.0
+Gujarat,Mehsana,Mehsana(Mehsana Veg) APMC,Onion,Onion,Local,2026-11-18,1000.0,5250.0,4000.0
+Karnataka,Chikkaballapur,Gauribidanur APMC,Onion,Onion,Local,2026-11-18,3500.0,4500.0,4000.0
+Maharashtra,Nashik,Pimpalgaon Baswant(Saykheda),Onion,Unhali,Local,2026-11-18,321.0,4151.0,3701.0
+Maharashtra,Pune,APMC Pune,Onion,Local,Local,2026-11-18,1000.0,5000.0,3000.0
+Uttar Pradesh,Varanasi,Varanasi APMC,Onion,Other,FAQ,2026-11-18,3500.0,3500.0,3500.0
+Maharashtra,Pune,Pune(Manjri),Onion,Local,Local,2026-11-18,2000.0,5000.0,4000.0
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6500.0,6250.0
+Keralam,Alappuzha,Madhavapuram Market,Onion,Big,FAQ,2026-11-18,5100.0,5500.0,5300.0
+Maharashtra,Satara,APMC Satara,Onion,Other,Local,2026-11-18,2000.0,4500.0,3750.0
+Punjab,Ropar (Rupnagar),Morinda APMC,Onion,Onion,Medium,2026-11-18,4500.0,4800.0,4700.0
+Bihar,Rohtas,Kochas (Balthari) APMC,Onion,Medium,Grade A,2026-11-18,4757.0,4757.0,4757.0
+NCT of Delhi,Delhi,APMC Azadpur,Onion,Onion,FAQ,2026-11-18,2250.0,7500.0,4206.0
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,7000.0,6750.0
+Madhya Pradesh,Narmadapuram,Narmadapuram (F&V) APMC,Onion,Onion,FAQ,2026-11-18,1830.0,4760.0,2200.0
+Tamil Nadu,Thiruvallur,Tiruvallur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6000.0,6000.0
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,4000.0,5000.0,4500.0
+Tamil Nadu,Chengalpet,Guduvancheri(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6000.0,5500.0
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6000.0,6000.0
+Tamil Nadu,Thiruppur,Dharapuram(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5500.0,6000.0,5750.0
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6800.0,6400.0
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,Onion,FAQ,2026-11-18,2000.0,3000.0,2500.0
+Uttar Pradesh,Ghaziabad,Muradnagar APMC,Onion,Other,FAQ,2026-11-18,2500.0,3000.0,2536.21
+West Bengal,Darjeeling,Siliguri APMC,Onion,Onion,FAQ,2026-11-18,4600.0,4800.0,4700.0
+Madhya Pradesh,Shajapur,Shajapur APMC,Onion,Medium,FAQ,2026-11-18,1121.0,4212.0,4010.73
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6400.0,6800.0,6600.0
+West Bengal,Puruliya,Balarampur APMC,Onion,Other,FAQ,2026-11-18,4100.0,5000.0,4600.0
+Tamil Nadu,Vellore,Pallikonda(Uzhavar Sandhai),Onion,Bellary,Local,2026-11-18,5000.0,5500.0,5250.0
+Karnataka,Dharwad,APMC Hubballi,Onion,Puna,Local,2026-11-18,1000.0,5500.0,4500.0
+Tamil Nadu,Pudukkottai,Ponnamaravathi(Uzhavar Sandhai),Onion,Bellary,Local,2026-11-18,6500.0,7000.0,6750.0
+Tamil Nadu,Mayiladuthurai,Mayiladuthurai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,4500.0,5000.0,4750.0
+Rajasthan,Pratapgarh,Pratapgarh APMC,Onion,Other,FAQ,2026-11-18,1100.0,3650.0,2750.0
+Uttar Pradesh,Jaunpur,Jaunpur APMC,Onion,Other,FAQ,2026-11-18,3000.0,3000.0,3000.0
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5600.0,6000.0,5800.0
+West Bengal,Birbhum,Birbhum APMC,Onion,Other,FAQ,2026-11-18,4900.0,5000.0,4970.0
+Uttarakhand,Udhamsinghnagar,Khateema APMC,Onion,Other,Grade A,2026-11-18,1800.0,2100.0,2000.0
+Maharashtra,Nashik,Shivsiddha Govind Producer Company Ltd Sanchalit Khajgi Krushi Utpann Bajar Samati-Abhona-Kalwan,Onion,Other,Local,2026-11-18,1300.0,5100.0,4250.0
+Goa,North Goa,Mapusa APMC,Onion,Onion,FAQ,2026-11-18,2500.0,3000.0,2800.0
+Madhya Pradesh,Dewas,Dewas(F&V) APMC,Onion,Other,FAQ,2026-11-18,1000.0,4000.0,1200.0
+Uttarakhand,Nanital,Haldwani APMC,Onion,Other,FAQ,2026-11-18,3000.0,3900.0,3400.0
+Haryana,Mahendragarh-Narnaul,Narnaul APMC,Onion,Onion,Medium,2026-11-18,3000.0,4500.0,3500.0
+Punjab,Hoshiarpur,Garh Shankar APMC,Onion,Onion,FAQ,2026-11-18,3500.0,3500.0,3500.0
+Punjab,Ludhiana,Doraha APMC,Onion,Medium,Local,2026-11-18,3500.0,4000.0,3800.0
+Odisha,Sambalpur,Rairakhol APMC,Onion,Onion,Grade C,2026-11-18,5000.0,5500.0,5300.0
+Odisha,Boudh,Boudh APMC,Onion,Other,Local,2026-11-18,5500.0,6500.0,6000.0
+Keralam,Alappuzha,Chengannur Market,Onion,Small,FAQ,2026-11-18,15800.0,16500.0,16000.0
+Haryana,Gurgaon,Gurgaon APMC,Onion,Other,Grade A,2026-11-18,4000.0,4400.0,4200.0
+Haryana,Rohtak,Meham,Onion,Medium,Medium,2026-11-18,4000.0,4500.0,4200.0
+West Bengal,Nadia,Kalyani APMC,Onion,Other,Local,2026-11-18,4800.0,5000.0,4900.0
+Haryana,Sonipat,Kharkhoda APMC,Onion,Other,FAQ,2026-11-18,3000.0,4000.0,3750.0
+Himachal Pradesh,Solan,SMY Nalagarh,Onion,Other,Medium,2026-11-18,4400.0,5000.0,4700.0
+Odisha,Nuapada,Khariar APMC,Onion,Other,Grade A,2026-11-18,5000.0,5000.0,5000.0
+Telangana,Hyderabad,RYTHU BAZAR MEHDIPATNAM,Onion,1st Sort,Grade A,2026-11-18,4000.0,4000.0,4000.0
+Madhya Pradesh,Betul,Betul(F&V) APMC,Onion,Onion,FAQ,2026-11-18,2500.0,3500.0,3000.0
+Uttar Pradesh,Shamli,Kairana APMC,Onion,Other,FAQ,2026-11-18,2000.0,2000.0,2000.0
+Tamil Nadu,Chengalpet,Thirukalukundram(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6000.0,6000.0
+Rajasthan,Jaipur,Bassi APMC,Onion,Other,Local,2026-11-18,3000.0,3400.0,3200.0
+Karnataka,Bengaluru,Bengaluru APMC,Onion,Local,Medium,2026-11-18,2500.0,3500.0,3000.0
+Karnataka,Bengaluru,Bengaluru APMC,Onion,Bangalore-Samall,Small,2026-11-18,1500.0,2500.0,2000.0
+Madhya Pradesh,Neemuch,Neemuch APMC,Onion,Local,FAQ,2026-11-18,2000.0,3250.0,3100.0
+Madhya Pradesh,Neemuch,Neemuch APMC,Onion,Red,FAQ,2026-11-18,2900.0,3700.0,3400.0
+Bihar,East Champaran/ Motihari,Motihari APMC,Onion,Other,Grade A,2026-11-18,4200.0,4400.0,4300.0
+Assam,Tinsukia,Tinsukia Market,Onion,Onion,FAQ,2026-11-18,4800.0,5400.0,5200.0
+Bihar,Vaishali,Hajipur APMC,Onion,Onion,Local,2026-11-18,4300.0,4300.0,4300.0
+Bihar,Bhagalpur,Kahalgaon APMC,Onion,Other,Local,2026-11-18,6000.0,6000.0,6000.0
+Bihar,Supaul,Supaul APMC,Onion,Onion,Grade A,2026-11-18,4400.0,4900.0,4500.0
+Madhya Pradesh,Shajapur,Akodiya APMC,Onion,Big,FAQ,2026-11-18,900.0,4401.0,3812.0
+Madhya Pradesh,Shajapur,Akodiya APMC,Onion,Onion,FAQ,2026-11-18,4000.0,4000.0,4000.0
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,7000.0,6500.0
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6500.0,6250.0
+Uttarakhand,Dehradoon,Dehradoon APMC,Onion,Nasik,Grade B,2026-11-18,1350.0,2500.0,2000.0
+Manipur,Imphal West,Imphal APMC,Onion,Other,FAQ,2026-11-18,6300.0,7000.0,6650.0
+West Bengal,Paschim Bardhaman,Asansol APMC,Onion,Nasik,FAQ,2026-11-18,4650.0,4850.0,4765.0
+West Bengal,Howrah,Ramkrishanpur(Howrah),Onion,Nasik,FAQ,2026-11-18,5000.0,5500.0,5200.0
+Uttarakhand,Dehradoon,Rishikesh APMC,Onion,Other,Medium,2026-11-18,3500.0,4200.0,4000.0
+Haryana,Faridabad,Ballabhgarh APMC,Onion,Onion,FAQ,2026-11-18,2000.0,3000.0,2500.0
+Haryana,Sonipat,Gohana APMC,Onion,Other,Medium,2026-11-18,2500.0,4000.0,2800.0
+Odisha,Jharsuguda,Jharsuguda APMC,Onion,Other,Grade A,2026-11-18,5500.0,6000.0,5500.0
+Haryana,Gurgaon,Sohna APMC,Onion,Onion,Local,2026-11-18,2000.0,3500.0,3500.0
+Punjab,Amritsar,Rayya APMC,Onion,Red,FAQ,2026-11-18,4055.0,4055.0,4055.0
+Keralam,Kannur,Thalasserry Market,Onion,1st Sort,FAQ,2026-11-18,5000.0,5800.0,5300.0
+Keralam,Palakad,Kollengode Market,Onion,Big,FAQ,2026-11-18,4600.0,5000.0,4800.0
+Haryana,Kurukshetra,Shahabad APMC,Onion,Onion,Medium,2026-11-18,3000.0,4500.0,3500.0
+Gujarat,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana) APMC,Onion,Other,FAQ,2026-11-18,3500.0,4200.0,4050.0
+Haryana,Panchkula,"New Grain Market , Panchkula APMC",Onion,Other,Grade A,2026-11-18,4900.0,5100.0,5000.0
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,Onion,Local,2026-11-18,2300.0,3800.0,2900.0
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,Red,Local,2026-11-18,4200.0,4200.0,4200.0
+Keralam,Kottayam,Kottayam Market,Onion,Onion,FAQ,2026-11-18,13200.0,13600.0,13400.0
+Punjab,Patiala,Patran APMC,Onion,Other,Grade A,2026-11-18,2920.0,2920.0,2920.0
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,4000.0,7000.0,5500.0
+Tamil Nadu,Kallakurichi,Sankarapuram(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,7000.0,7000.0,7000.0
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6000.0,5500.0
+Tamil Nadu,Mayiladuthurai,Sirkali(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6000.0,5500.0
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6500.0,6250.0
+Tamil Nadu,Madurai,Usilampatti(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,7000.0,6750.0
+Tamil Nadu,Thanjavur,Tirukattupalli(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6600.0,6600.0,6600.0
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,7000.0,6750.0
+Tamil Nadu,Tirunelveli,Melapalayam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6800.0,5900.0
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6000.0,5500.0
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5500.0,5800.0,5650.0
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,7000.0,8000.0,7500.0
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,5000.0,5000.0
+Tamil Nadu,Cuddalore,Vadalur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,4000.0,5000.0,4500.0
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6500.0,6250.0
+Tamil Nadu,Sivagangai,Tirupatthur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,7000.0,6750.0
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5600.0,5600.0,5600.0
+Maharashtra,Ahilyanagar,APMC Kopargaon,Onion,Red,Local,2026-11-18,1700.0,4379.0,3700.0
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,7000.0,6750.0
+Tamil Nadu,Chengalpet,Madhuranthagam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6000.0,6000.0
+Tamil Nadu,Chengalpet,Jameenrayapettai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6000.0,5500.0
+Maharashtra,Ahilyanagar,APMC Pathardi,Onion,Red,Local,2026-11-18,1000.0,6100.0,3600.0
+Bihar,Darbhanga,Darbhanga APMC,Onion,Red,Grade A,2026-11-18,4200.0,4500.0,4400.0
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Onion,Other,Local,2026-11-18,4000.0,5500.0,5000.0
+Keralam,Malappuram,Thirurrangadi Market,Onion,Other,FAQ,2026-11-18,5400.0,5500.0,5500.0
+Keralam,Palakad,Vadakkenchery Market,Onion,Big,FAQ,2026-11-18,6000.0,6500.0,6500.0
+Madhya Pradesh,Ratlam,Ratlam APMC,Onion,Red,FAQ,2026-11-18,1600.0,1600.0,1600.0
+Madhya Pradesh,Ratlam,Ratlam APMC,Onion,Onion,FAQ,2026-11-18,551.0,4350.0,3500.0
+Madhya Pradesh,Ratlam,Sailana APMC,Onion,Onion,FAQ,2026-11-18,100.0,3899.0,3200.0
+Maharashtra,Nashik,APMC Nasik,Onion,Unhali,Local,2026-11-18,2100.0,4551.0,4100.0
+Gujarat,Jamnagar,Jamnagar APMC,Onion,Other,Local,2026-11-18,1250.0,4150.0,2825.0
+Gujarat,Kachchh,Bhuj APMC,Onion,Other,FAQ,2026-11-18,4000.0,5000.0,4500.0
+Maharashtra,Nashik,APMC Sinner,Onion,Unhali,Local,2026-11-18,2000.0,4560.0,4275.0
+Maharashtra,Nashik,APMC Devala,Onion,Red,Local,2026-11-18,2000.0,4175.0,3950.0
+Maharashtra,Nashik,APMC Devala,Onion,Unhali,Local,2026-11-18,2000.0,4600.0,4100.0
+Maharashtra,Nashik,APMC Pimpalgaon Baswant,Onion,Pole,Local,2026-11-18,1500.0,5500.0,4450.0
+Maharashtra,Nashik,Lasalgaon(Vinchur),Onion,Unhali,Local,2026-11-18,1500.0,4300.0,4000.0
+Maharashtra,Nashik,APMC Nampur,Onion,Unhali,Local,2026-11-18,2305.0,4325.0,4000.0
+Karnataka,Shivamogga,Shimoga APMC,Onion,Onion,Local,2026-11-18,4000.0,6800.0,5300.0
+Keralam,Thiruvananthapuram,Aralamoodu Market,Onion,Onion,FAQ,2026-11-18,14000.0,15000.0,15000.0
+Maharashtra,Pune,Pune(Khadiki),Onion,Local,Local,2026-11-18,1000.0,2800.0,1900.0
+West Bengal,Birbhum,Bolpur APMC,Onion,Onion,FAQ,2026-11-18,4900.0,5000.0,4970.0
+West Bengal,North 24 Parganas,Barasat APMC,Onion,Other,FAQ,2026-11-18,5500.0,5500.0,5500.0
+Keralam,Alappuzha,Madhavapuram Market,Onion,Small,FAQ,2026-11-18,12000.0,12600.0,12400.0
+Chattisgarh,Durg,Durg APMC,Onion,Onion,Medium,2026-11-18,4000.0,5000.0,4000.0
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,8200.0,7100.0
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6400.0,6200.0
+Bihar,Kaimur/Bhabhua,Kaimur APMC,Onion,1st Sort,FAQ,2026-11-18,4400.0,4400.0,4400.0
+Bihar,East Champaran/ Motihari,Madhuban APMC,Onion,1st Sort,FAQ,2026-11-18,4000.0,4400.0,4200.0
+Maharashtra,Solapur,"Laxmi-Sopan Agriculture Produce Marketing Co Ltd, Barshi, Dist Solapur",Onion,Other,Local,2026-11-18,300.0,6000.0,3400.0
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5500.0,5500.0,5500.0
+Madhya Pradesh,Agar Malwa,Soyatkalan(F&V) APMC,Onion,Other,FAQ,2026-11-18,570.0,3915.0,3005.0
+Tamil Nadu,Pudukkottai,Aranthangi(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,7000.0,8000.0,7500.0
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,7000.0,6500.0
+Madhya Pradesh,Badwani,Sendhwa(F&V) APMC,Onion,Red,Small,2026-11-18,1400.0,2000.0,1700.0
+Madhya Pradesh,Shajapur,Akodiya(F&V) APMC,Onion,Big,Grade B,2026-11-18,1500.0,4400.0,3200.0
+Uttar Pradesh,Mathura,Mathura APMC,Onion,Other,FAQ,2026-11-18,2900.0,3000.0,2950.0
+Haryana,Panipat,Panipat APMC,Onion,Onion,Local,2026-11-18,1000.0,3000.0,2000.0
+Odisha,Khurda,Balugaon APMC,Onion,Nasik,Grade A,2026-11-18,3000.0,3000.0,3000.0
+Odisha,Sonepur,Birmaharajpur APMC,Onion,Onion,Local,2026-11-18,4500.0,5000.0,4800.0
+Punjab,Sangrur,Bhawanigarh APMC,Onion,Other,Medium,2026-11-18,3000.0,3500.0,3250.0
+Haryana,Kaithal,Dhand APMC,Onion,Other,Medium,2026-11-18,3000.0,4500.0,4400.0
+Punjab,Jalandhar,Jalandhar City(Jalandhar) APMC,Onion,Other,FAQ,2026-11-18,2000.0,4000.0,3000.0
+Keralam,Palakad,Palakkad Market,Onion,Small,FAQ,2026-11-18,15000.0,16000.0,15600.0
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,6800.0,6650.0
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,7000.0,7500.0,7250.0
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6000.0,5500.0
+Tamil Nadu,Thiruvallur,Ambattur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6000.0,6000.0
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6000.0,5500.0
+Haryana,Rohtak,Rohtak APMC,Onion,Other,Medium,2026-11-18,1500.0,3000.0,2000.0
+Punjab,Ludhiana,Samrala APMC,Onion,Other,Local,2026-11-18,3000.0,4000.0,3500.0
+Tripura,Sepahijala,Jampuijala APMC,Onion,Other,Medium,2026-11-18,7800.0,8000.0,7900.0
+West Bengal,Hooghly,Kalipur(Arambagh Krishak Bazar)APMC,Onion,Nasik,FAQ,2026-11-18,4300.0,4500.0,4400.0
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,4800.0,6000.0,5400.0
+Haryana,Ambala,Naraingarh APMC,Onion,Onion,Medium,2026-11-18,2200.0,2500.0,2350.0
+Punjab,Mansa,Mansa APMC,Onion,Nasik,FAQ,2026-11-18,4935.0,4935.0,4935.0
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai),Onion,Bellary,Local,2026-11-18,6000.0,6500.0,6250.0
+Madhya Pradesh,Burhanpur,Burhanpur(F&V) APMC,Onion,Local,Local,2026-11-18,1500.0,4000.0,3500.0
+Manipur,Thoubal,Thoubal APMC,Onion,Other,FAQ,2026-11-18,6500.0,7000.0,6750.0
+Gujarat,Bharuch,Bharuch APMC,Onion,Other,Local,2026-11-18,2000.0,3300.0,2500.0
+Himachal Pradesh,Kangra,PMY Kangra,Onion,Onion,FAQ,2026-11-18,4500.0,4800.0,4600.0
+Uttarakhand,Udhamsinghnagar,Sitarganj APMC,Onion,Hybrid,Grade A,2026-11-18,2500.0,3500.0,3000.0
+Punjab,Jalandhar,Goraya APMC,Onion,Other,Local,2026-11-18,4000.0,4000.0,4000.0
+Odisha,Mayurbhanja,Udala APMC,Onion,Onion,FAQ,2026-11-18,4800.0,5500.0,5000.0
+Keralam,Alappuzha,Chengannur Market,Onion,Big,FAQ,2026-11-18,5600.0,5900.0,5700.0
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5400.0,5800.0,5600.0
+Jammu and Kashmir,Kathua,Kathua (F&V),Onion,Nasik,FAQ,2026-11-18,3600.0,4000.0,3800.0
+Telangana,Siddipet,Siddipet(Rythu Bazar),Onion,Onion,Grade A,2026-11-18,4500.0,5500.0,5000.0
+Chandigarh,Chandigarh,Chandigarh (Grain/F&V) APMC,Onion,Onion,FAQ,2026-11-18,1500.0,3700.0,3500.0
+Odisha,Bhadrak,Chandabali APMC,Onion,Other,Grade Range-2,2026-11-18,4000.0,4500.0,4250.0
+Madhya Pradesh,Indore,Indore APMC,Onion,Onion,FAQ,2026-11-18,1605.0,4372.0,3556.0
+Madhya Pradesh,Indore,Indore APMC,Onion,Other,Non-FAQ,2026-11-18,3550.0,4000.0,4000.0
+Madhya Pradesh,Neemuch,Neemuch APMC,Onion,Onion,FAQ,2026-11-18,360.0,3653.0,2890.0
+Bihar,Begusarai,Begusarai APMC,Onion,Onion,Medium,2026-11-18,5200.0,5400.0,5300.0
+Bihar,Sitamarhi,Sitamarhi APMC,Onion,Nasik,Large,2026-11-18,4500.0,4500.0,4500.0
+Bihar,Bhojpur,Aarah APMC,Onion,Other,FAQ,2026-11-18,4000.0,4000.0,4000.0
+West Bengal,Malda,Samsi APMC,Onion,Nasik,FAQ,2026-11-18,4200.0,4500.0,4300.0
+Himachal Pradesh,Hamirpur,PMY Hamirpur,Onion,Other,Grade B,2026-11-18,4600.0,4800.0,4700.0
+Manipur,Imphal East,Lamlong Bazaar APMC,Onion,Onion,FAQ,2026-11-18,6500.0,7000.0,6750.0
+Punjab,Tarntaran,Patti APMC,Onion,Other,Non-FAQ,2026-11-18,0.01,0.01,0.01
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,Onion,Grade B,2026-11-18,1800.0,5200.0,2600.0
+Haryana,Karnal,Gharaunda APMC,Onion,Other,Local,2026-11-18,3600.0,4000.0,4000.0
+Uttarakhand,Haridwar,Bhagwanpur(Naveen Mandi Sthal) APMC,Onion,Other,Grade A,2026-11-18,2500.0,3000.0,2800.0
+Bihar,Begusarai,Balliah APMC,Onion,1st Sort,Grade C,2026-11-18,5000.0,5200.0,5100.0
+Bihar,Begusarai,Balliah APMC,Onion,1st Sort,Grade A,2026-11-18,5000.0,5200.0,5100.0
+Punjab,Bhatinda,Bhagta Bhai Ka APMC,Onion,Other,Medium,2026-11-18,4100.0,4100.0,4100.0
+Punjab,Jalandhar,Phillaur APMC,Onion,Other,FAQ,2026-11-18,3000.0,3000.0,3000.0
+Gujarat,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana) APMC,Onion,Nasik,FAQ,2026-11-18,4000.0,5200.0,5000.0
+Punjab,Gurdaspur,Quadian APMC,Onion,Other,Grade A,2026-11-18,3500.0,3700.0,3600.0
+Rajasthan,Kota,Kota (F&V) APMC,Onion,Other,Medium,2026-11-18,4000.0,4000.0,4000.0
+Keralam,Kottayam,Thalayolaparambu Market,Onion,Onion,FAQ,2026-11-18,10500.0,11000.0,10800.0
+Punjab,Patiala,Patiala APMC,Onion,Onion,Grade B,2026-11-18,4000.0,4400.0,4200.0
+Punjab,Patiala,Rajpura APMC,Onion,Local,Grade B,2026-11-18,3500.0,3700.0,3600.0
+Punjab,Sangrur,Dhuri APMC,Onion,Other,Medium,2026-11-18,3900.0,4200.0,4100.0
+Gujarat,Porbandar,Porbandar APMC,Onion,Other,FAQ,2026-11-18,4000.0,5000.0,4500.0
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,6800.0,6650.0
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6000.0,5500.0
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6000.0,5500.0
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6500.0,6250.0
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Onion,Bellary,Local,2026-11-18,5000.0,6000.0,5500.0
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6500.0,6250.0
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,7000.0,6500.0
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6200.0,7200.0,6700.0
+Maharashtra,Ahilyanagar,APMC Sangamner,Onion,Red,Local,2026-11-18,1200.0,5200.0,3200.0
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,7000.0,6750.0
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,7000.0,6750.0
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6400.0,6200.0
+Tamil Nadu,Tirunelveli,NGO Colony(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5500.0,6800.0,6150.0
+Tamil Nadu,Tirunelveli,Palayamkottai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6800.0,6400.0
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Onion,Nasik,FAQ,2026-11-18,4000.0,5000.0,4600.0
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,7000.0,6500.0
+Tamil Nadu,Thiruchirappalli,KKNagar(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,7000.0,7000.0,7000.0
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,7000.0,6500.0
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,7000.0,6500.0
+Tamil Nadu,Chengalpet,Chengalpet(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5500.0,6000.0,5750.0
+Maharashtra,Akola,APMC Akola,Onion,Other,Local,2026-11-18,2500.0,4800.0,3500.0
+Maharashtra,Dharashiv,APMC Dharashiv,Onion,Red,Local,2026-11-18,800.0,4600.0,2700.0
+Maharashtra,Ahilyanagar,Newasa(Ghodegaon),Onion,Unhali,Local,2026-11-18,1000.0,4500.0,3500.0
+Tamil Nadu,Vellore,Vellore RM,Onion,Bellary,Local,2026-11-18,5500.0,5600.0,5550.0
+Madhya Pradesh,Rajgarh,Narsinghgarh APMC,Onion,Onion,FAQ,2026-11-18,720.0,4210.0,3410.0
+Madhya Pradesh,Ratlam,Ratlam APMC,Onion,Hybrid,FAQ,2026-11-18,3870.0,3870.0,3870.0
+Gujarat,Navsari,Navsari APMC,Onion,Onion,Grade A,2026-11-18,3000.0,5600.0,4300.0
+Gujarat,Kheda,Kapadvanj APMC,Onion,Onion,Medium,2026-11-18,2000.0,4000.0,3000.0
+Himachal Pradesh,Bilaspur,PMY Bilaspur,Onion,Other,Grade B,2026-11-18,4000.0,4700.0,4400.0
+Maharashtra,Nashik,APMC Manmad,Onion,Red,Local,2026-11-18,2121.0,4600.0,4200.0
+Maharashtra,Nashik,APMC Manmad,Onion,Unhali,Local,2026-11-18,2400.0,4400.0,3851.0
+Gujarat,Rajkot,Dhoraji APMC,Onion,Nasik,Non-FAQ,2026-11-18,875.0,3230.0,2830.0
+Karnataka,Haveri,Ranebennur APMC,Onion,Local,Medium,2026-11-18,1000.0,1000.0,1000.0
+Maharashtra,Nashik,Lasalgaon(Niphad),Onion,Unhali,Local,2026-11-18,2000.0,4352.0,3850.0
+Karnataka,Kolar,Bangarpet APMC,Onion,Onion,Local,2026-11-18,3500.0,5000.0,4500.0
+Maharashtra,Nashik,Lasalgaon(Vinchur),Onion,Red,Local,2026-11-18,2000.0,4876.0,4400.0
+Punjab,Fazilka,Abohar APMC,Onion,Onion,Medium,2026-11-18,3750.0,4750.0,4050.0
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Nasik,FAQ,2026-11-18,4800.0,5000.0,4900.0
+Karnataka,Udupi,Udupi APMC,Onion,Onion,Local,2026-11-18,4000.0,4500.0,4300.0
+Keralam,Thiruvananthapuram,Parassala Market,Onion,Onion,Local,2026-11-18,6200.0,6600.0,6400.0
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6000.0,5500.0
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,7000.0,6500.0
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,8000.0,7000.0
+Gujarat,Navsari,Bilimora APMC,Onion,Nasik,FAQ,2026-11-18,3500.0,5000.0,4500.0
+Tamil Nadu,Thiruvallur,Tiruthani(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6000.0,6000.0
+Madhya Pradesh,Dhar,Kukshi(F&V) APMC,Onion,Onion,Grade A,2026-11-18,2500.0,3500.0,3000.0
+Madhya Pradesh,Khargone,Sanawad(F&V) APMC,Onion,Onion,Medium,2026-11-18,3800.0,4000.0,3900.0
+Tamil Nadu,Nagapattinam,Vedaranyam(Uzhavar Sandhai),Onion,Bellary,Local,2026-11-18,4500.0,6000.0,5250.0
+Himachal Pradesh,Kullu,PMY Kullu,Onion,Other,FAQ,2026-11-18,4200.0,4500.0,4300.0
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,7000.0,6500.0
+Tripura,North Tripura,Dasda APMC,Onion,Onion,FAQ,2026-11-18,5100.0,5300.0,5200.0
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Onion,Onion,FAQ,2026-11-18,755.0,4030.0,3155.0
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,Nasik,FAQ,2026-11-18,5900.0,6100.0,6000.0
+Haryana,Yamuna Nagar,Sadhaura APMC,Onion,Onion,Local,2026-11-18,2800.0,3600.0,3200.0
+Haryana,Gurgaon,Farukh Nagar APMC,Onion,Other,Medium,2026-11-18,4200.0,5400.0,4800.0
+Haryana,Hissar,Barwala(Hisar) APMC,Onion,Onion,Local,2026-11-18,3500.0,4000.0,4000.0
+Himachal Pradesh,Hamirpur,SMY Nadaun,Onion,Other,Grade B,2026-11-18,4800.0,5000.0,4900.0
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6200.0,6100.0
+Madhya Pradesh,Shajapur,Kalapipal APMC,Onion,Onion,FAQ,2026-11-18,500.0,3802.0,3802.0
+Karnataka,Dharwad,APMC Hubballi,Onion,Local,Local,2026-11-18,500.0,5100.0,4200.0
+Keralam,Palakad,Palakkad Market,Onion,Big,FAQ,2026-11-18,6000.0,6500.0,6300.0
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,7000.0,8000.0,7500.0
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6000.0,5500.0
+Tamil Nadu,Tiruvarur,Mannargudi II(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6000.0,6000.0
+Tamil Nadu,Thiruvallur,Naravarikuppam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6000.0,6000.0
+Tamil Nadu,Thoothukudi,Kovilpatti(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,7000.0,6750.0
+Himachal Pradesh,Solan,PMY Kather Solan,Onion,Other,Medium,2026-11-18,3500.0,4600.0,4200.0
+Haryana,Kaithal,Pundri APMC,Onion,Other,FAQ,2026-11-18,3000.0,3500.0,3250.0
+Odisha,Dhenkanal,Hindol APMC,Onion,Other,Grade B,2026-11-18,4800.0,5500.0,5000.0
+West Bengal,Nadia,Nadia APMC,Onion,Nasik,FAQ,2026-11-18,4300.0,4500.0,4400.0
+Maharashtra,Nashik,APMC Umrane,Onion,Red,Local,2026-11-18,1500.0,5252.0,4100.0
+Punjab,Hoshiarpur,Tanda Urmur APMC,Onion,Nasik,Grade A,2026-11-18,5000.0,5500.0,5200.0
+Punjab,Ferozpur,Ferozepur Cantt. APMC,Onion,Onion,Grade A,2026-11-18,3500.0,4500.0,4000.0
+Punjab,Moga,Nihal Singh Wala APMC,Onion,Onion,FAQ,2026-11-18,4200.0,4200.0,4200.0
+Keralam,Kozhikode(Calicut),Quilandy Market,Onion,Other,FAQ,2026-11-18,5300.0,5500.0,5400.0
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5500.0,6200.0,5850.0
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6000.0,5500.0
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5500.0,5800.0,5650.0
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard) APMC,Onion,Onion,FAQ,2026-11-18,1350.0,3800.0,3075.0
+Himachal Pradesh,Una,PMY Una,Onion,Onion,FAQ,2026-11-18,4200.0,4800.0,4500.0
+Assam,Kamrup,Pamohi(Garchuk) APMC,Onion,Onion,FAQ,2026-11-18,5000.0,5800.0,5100.0
+Assam,Kamrup,Pamohi(Garchuk) APMC,Onion,Local,FAQ,2026-11-18,5400.0,6000.0,5500.0
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,3600.0,3600.0,3600.0
+Madhya Pradesh,Agar Malwa,Agar(F&V) APMC,Onion,Bellary,Local,2026-11-18,6000.0,6000.0,6000.0
+Madhya Pradesh,Ujjain,Ujjain APMC,Onion,Onion,FAQ,2026-11-18,700.0,4152.0,3711.0
+Tamil Nadu,Thoothukudi,Tuticorin(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5500.0,6500.0,6000.0
+Karnataka,Bengaluru,Bengaluru APMC,Onion,Onion,Large,2026-11-18,3500.0,5600.0,4400.0
+Bihar,Aurangabad,Daunagar APMC,Onion,1st Sort,Local,2026-11-18,4000.0,4200.0,4100.0
+Chattisgarh,Rajnandgaon,Rajnandgaon APMC,Onion,Onion,Grade B,2026-11-18,4600.0,5000.0,4800.0
+Madhya Pradesh,Khandwa,Khandwa APMC,Onion,Local,FAQ,2026-11-18,1500.0,4200.0,3200.0
+Madhya Pradesh,Mandsaur,Mandsaur APMC,Onion,Onion,Non-FAQ,2026-11-18,200.0,3900.0,3400.0
+Madhya Pradesh,Mandsaur,Mandsaur APMC,Onion,Onion,FAQ,2026-11-18,2160.0,3800.0,3800.0
+Bihar,Rohtas,Nokha APMC,Onion,White,Grade C,2026-11-18,5000.0,6000.0,5500.0
+Madhya Pradesh,Ratlam,A lot APMC,Onion,Onion,FAQ,2026-11-18,901.0,3100.0,3000.0
+Bihar,Luckeesarai,Lakhisarai APMC,Onion,Other,Local,2026-11-18,6000.0,6000.0,6000.0
+Bihar,Supaul,Triveniganj APMC,Onion,1st Sort,Grade A,2026-11-18,4400.0,4400.0,4400.0
+Madhya Pradesh,Mandsaur,Daloda APMC,Onion,Nasik,FAQ,2026-11-18,3200.0,3400.0,3200.0
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,5000.0,5000.0
+Himachal Pradesh,Chamba,PMY Chamba,Onion,Onion,Medium,2026-11-18,4600.0,4800.0,4700.0
+Manipur,Bishnupur,Bishenpur APMC,Onion,Onion,FAQ,2026-11-18,6500.0,7000.0,6750.0
+Uttarakhand,Dehradoon,Vikasnagar APMC,Onion,Other,FAQ,2026-11-18,1000.0,1600.0,1600.0
+Himachal Pradesh,Kangra,SMY Dharamshala,Onion,Onion,FAQ,2026-11-18,4800.0,5000.0,4900.0
+Bihar,Begusarai,Balliah APMC,Onion,1st Sort,Grade B,2026-11-18,5000.0,5200.0,5100.0
+Keralam,Palakad,Kollengode Market,Onion,Small,FAQ,2026-11-18,6600.0,7000.0,6800.0
+Madhya Pradesh,Mandsaur,Sitamau APMC,Onion,Onion,FAQ,2026-11-18,2210.0,3050.0,2630.0
+Haryana,Panipat,Madlauda APMC,Onion,Onion,FAQ,2026-11-18,3500.0,3500.0,3500.0
+Punjab,Gurdaspur,F.G.Churian APMC,Onion,Onion,Grade A,2026-11-18,4500.0,4500.0,4500.0
+Rajasthan,Ganganagar,Sriganganagar (F&V) APMC,Onion,Onion,Grade B,2026-11-18,4000.0,4400.0,4200.0
+Tamil Nadu,Thiruchirappalli,Thuraiyur RM,Onion,Bellary,Local,2026-11-18,5500.0,7000.0,6250.0
+Rajasthan,Hanumangarh,Rawatsar APMC,Onion,1st Sort,FAQ,2026-11-18,1300.0,2500.0,2000.0
+Keralam,Kottayam,Thalayolaparambu Market,Onion,Big,FAQ,2026-11-18,5200.0,5600.0,5400.0
+Keralam,Alappuzha,Mannar Market,Onion,Big,FAQ,2026-11-18,5000.0,5200.0,5100.0
+Punjab,Mohali,Dera Bassi APMC,Onion,Onion,Local,2026-11-18,3700.0,3700.0,3700.0
+Keralam,Ernakulam,Perumbavoor Market,Onion,Onion,Medium,2026-11-18,5400.0,6200.0,5800.0
+Punjab,Ropar (Rupnagar),Ropar APMC,Onion,Nasik,Non-FAQ,2026-11-18,3800.0,4200.0,4000.0
+Bihar,Chhapra,Chhapra APMC,Onion,Other,Grade A,2026-11-18,4200.0,4800.0,4400.0
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6200.0,6600.0,6400.0
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6500.0,6250.0
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,7000.0,6500.0
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,7200.0,7600.0,7400.0
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6800.0,6400.0
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,2800.0,6500.0,4650.0
+Tamil Nadu,Thiruvannamalai,Keelpennathur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,4500.0,5000.0,4750.0
+Tamil Nadu,Sivagangai,Devakottai (Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5200.0,6000.0,5600.0
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6400.0,6800.0,6600.0
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,7000.0,6000.0
+Punjab,Mohali,Kharar APMC,Onion,Other,Non-FAQ,2026-11-18,3000.0,5000.0,4000.0
+Tamil Nadu,Chengalpet,Medavakkam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6500.0,6250.0
+Tamil Nadu,Chengalpet,Pallavaram(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,7000.0,6500.0
+Tamil Nadu,Kannyiakumari,Myladi(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,7000.0,8000.0,7500.0
+Maharashtra,Chattrapati Sambhajinagar,APMC Chattrapati Sambhajinagar,Onion,Other,Local,2026-11-18,2700.0,4300.0,3500.0
+Maharashtra,Chattrapati Sambhajinagar,APMC Paithan,Onion,Unhali,Local,2026-11-18,1500.0,5000.0,4000.0
+Tamil Nadu,Villupuram,Tindivanam RM,Onion,Bellary,Local,2026-11-18,6000.0,6000.0,6000.0
+Tamil Nadu,Thirupathur,Thirupathur RM,Onion,Bellary,Local,2026-11-18,6000.0,6000.0,6000.0
+Maharashtra,Nagpur,APMC Nagpur,Onion,Red,Local,2026-11-18,3500.0,4500.0,4250.0
+Uttar Pradesh,Aligarh,Aligarh APMC,Onion,Other,FAQ,2026-11-18,3000.0,3500.0,3213.11
+Punjab,Sangrur,Lehra Gaga APMC,Onion,Other,Grade A,2026-11-18,4000.0,4000.0,4000.0
+Maharashtra,Nashik,APMC Sinner,Onion,Red,Local,2026-11-18,2000.0,4500.0,4375.0
+Maharashtra,Nashik,APMC Pimpalgaon Baswant,Onion,Unhali,Local,2026-11-18,1600.0,4965.0,4200.0
+Haryana,Panchkula,Panchkul(Kalka) APMC,Onion,Other,Grade A,2026-11-18,5000.0,5200.0,5100.0
+Maharashtra,Pune,APMC Khed,Onion,Fursungi,Local,2026-11-18,2300.0,4500.0,3500.0
+Keralam,Thirssur,Chelakkara Market,Onion,Big,FAQ,2026-11-18,6000.0,6500.0,6200.0
+Keralam,Thirssur,Chavakkad Market,Onion,Big,FAQ,2026-11-18,5600.0,6400.0,6400.0
+Keralam,Thiruvananthapuram,Aralamoodu Market,Onion,Big,FAQ,2026-11-18,6509.0,6800.0,6800.0
+Maharashtra,Pune,Khed(Chakan),Onion,Other,Local,2026-11-18,2000.0,4500.0,3600.0
+Maharashtra,Nashik,APMC Chandwad,Onion,Red,Local,2026-11-18,2320.0,4690.0,4150.0
+Jammu and Kashmir,Udhampur,Fruit and Vegetable Market Udhampur,Onion,Other,Grade B,2026-11-18,4700.0,4700.0,4700.0
+Assam,Nagaon,Dhing APMC,Onion,Onion,FAQ,2026-11-18,5500.0,6000.0,5700.0
+Maharashtra,Solapur,APMC Solapur,Onion,Red,Local,2026-11-18,500.0,6200.0,3100.0
+Tamil Nadu,Thenkasi,Sankarankoil(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5500.0,6500.0,6000.0
+Tamil Nadu,Thenkasi,Tenkasi(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6000.0,5500.0
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,6500.0,6500.0
+Tamil Nadu,Tiruvarur,Needamangalam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,4400.0,4400.0,4400.0
+West Bengal,Jalpaiguri,Dhupguri APMC,Onion,Other,FAQ,2026-11-18,4900.0,5100.0,5000.0
+Bihar,Luckeesarai,Surjyagarha APMC,Onion,1st Sort,Local,2026-11-18,6000.0,6000.0,6000.0
+Bihar,East Champaran/ Motihari,Raxaul APMC,Onion,1st Sort,Grade A,2026-11-18,4100.0,4300.0,4200.0
+West Bengal,Nadia,Ranaghat APMC,Onion,Other,FAQ,2026-11-18,4950.0,5100.0,5000.0
+West Bengal,Birbhum,Sainthia APMC,Onion,Onion,FAQ,2026-11-18,4900.0,5000.0,4960.0
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,7000.0,6750.0
+Madhya Pradesh,Narmadapuram,Pipariya(F&V) APMC,Onion,Onion,Local,2026-11-18,3000.0,4500.0,3600.0
+Tamil Nadu,Madurai,Thirumangalam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,7000.0,6750.0
+Tamil Nadu,Karur,Gandhigramam(Uzhavar Sandhai),Onion,Bellary,Local,2026-11-18,6500.0,7000.0,6750.0
+Maharashtra,Nagpur,APMC Ramtek,Onion,Unhali,Local,2026-11-18,4200.0,5200.0,4700.0
+Tamil Nadu,Kallakurichi,Kallakurichi(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,7000.0,7000.0,7000.0
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6000.0,5500.0
+Gujarat,Bharuch,Ankleshwar APMC,Onion,Onion,Grade A,2026-11-18,2500.0,4500.0,3500.0
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6400.0,6200.0
+Assam,Sonitpur,Dhekiajuli APMC,Onion,Onion,FAQ,2026-11-18,5200.0,5400.0,5300.0
+Tamil Nadu,Dindigul,Vedasandur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,7000.0,6500.0
+Gujarat,Vadodara(Baroda),Padra APMC,Onion,Other,FAQ,2026-11-18,4500.0,5500.0,5000.0
+Haryana,Ambala,Shahzadpur APMC,Onion,Onion,FAQ,2026-11-18,1500.0,2000.0,2000.0
+Haryana,Yamuna Nagar,Chhachrauli APMC,Onion,Onion,Local,2026-11-18,4000.0,5500.0,4500.0
+Punjab,Fazilka,Jalalabad APMC,Onion,Other,Medium,2026-11-18,4200.0,4500.0,4300.0
+Himachal Pradesh,Kangra,SMY Jassur,Onion,Other,FAQ,2026-11-18,4000.0,4500.0,4250.0
+Punjab,Jalandhar,Phillaur(Apra Mandi) APMC,Onion,Onion,FAQ,2026-11-18,5000.0,5000.0,5000.0
+Maharashtra,Mumbai,Mumbai-Onion & Potato Market,Onion,Other,Local,2026-11-18,3100.0,5100.0,4100.0
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,Dry F.A.Q.,FAQ,2026-11-18,4000.0,4500.0,4200.0
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,7000.0,8000.0,7500.0
+Tamil Nadu,Tiruvarur,Mannargudi I(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,4400.0,7400.0,5900.0
+Tamil Nadu,Thiruvallur,Perambakkam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6000.0,6000.0
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5600.0,5600.0,5600.0
+Haryana,Rewari,Rewari APMC,Onion,Medium,Medium,2026-11-18,2000.0,4500.0,3000.0
+Haryana,Jhajar,Jhajjar APMC,Onion,Other,Medium,2026-11-18,4000.0,4000.0,4000.0
+Punjab,Hoshiarpur,Mukerian APMC,Onion,Onion,Grade B,2026-11-18,4200.0,5000.0,4600.0
+West Bengal,Puruliya,Purulia APMC,Onion,Other,FAQ,2026-11-18,3800.0,4800.0,4100.0
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,8400.0,7200.0
+Punjab,Fatehgarh,Sirhind APMC,Onion,Other,FAQ,2026-11-18,3500.0,4500.0,4000.0
+Haryana,Jind,Narwana APMC,Onion,Onion,Non-FAQ,2026-11-18,4000.0,4500.0,4250.0
+Odisha,Angul,Talcher APMC,Onion,Other,Grade C,2026-11-18,4000.0,4850.0,4400.0
+Haryana,Fatehabad,Jakhal APMC,Onion,Other,Non-FAQ,2026-11-18,4000.0,4000.0,4000.0
+Keralam,Ernakulam,Angamaly Market,Onion,Big,FAQ,2026-11-18,5800.0,6500.0,6200.0
+Keralam,Alappuzha,Kayamkulam Market,Onion,Big,FAQ,2026-11-18,5300.0,5500.0,5400.0
+Gujarat,Kheda,Nadiyad(Piplag) APMC,Onion,Onion,FAQ,2026-11-18,2200.0,2700.0,2400.0
+Himachal Pradesh,Kangra,SMY Baijnath,Onion,Onion,Grade A,2026-11-18,4500.0,5000.0,4800.0
+Himachal Pradesh,Kangra,SMY Jaisinghpur,Onion,Other,FAQ,2026-11-18,4500.0,5200.0,4800.0
+Keralam,Kozhikode(Calicut),Thamarassery Market,Onion,Other,FAQ,2026-11-18,5500.0,5600.0,5500.0
+Tamil Nadu,Namakkal,Thiruchengodu RM,Onion,Bellary,Local,2026-11-18,5800.0,6500.0,6150.0
+Madhya Pradesh,Shajapur,Shajapur(F&V) APMC,Onion,Onion,Grade A,2026-11-18,150.0,4500.0,2800.0
+Telangana,Hyderabad,RYTHU BAZAR ERRAGADDA,Onion,1st Sort,Grade A,2026-11-18,4000.0,4000.0,4000.0
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6500.0,6250.0
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,7000.0,6750.0
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5600.0,6000.0,5800.0
+Maharashtra,Ahilyanagar,"Prasanna Krushi Market, Tal Parnet, Dist Ahilyanagar",Onion,Other,Local,2026-11-18,1000.0,4000.0,2500.0
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6600.0,6300.0
+Odisha,Bargarh,Bargarh APMC,Onion,Onion,Medium,2026-11-18,3500.0,4500.0,4000.0
+Himachal Pradesh,Kullu,SMY Bhuntar,Onion,Other,FAQ,2026-11-18,4600.0,5200.0,4800.0
+Himachal Pradesh,Mandi,SMY Dhanotu,Onion,Onion,FAQ,2026-11-18,4200.0,4400.0,4300.0
+Odisha,Bolangir,Bolangir APMC,Onion,Other,Medium,2026-11-18,4000.0,5000.0,4500.0
+Punjab,Mohali,Lalru APMC,Onion,Other,Local,2026-11-18,4350.0,4350.0,4350.0
+Keralam,Kollam,Chathanoor Market,Onion,Other,FAQ,2026-11-18,5500.0,6500.0,6000.0
+Himachal Pradesh,Mandi,SMY Jogindernagar,Onion,Local,FAQ,2026-11-18,4600.0,4800.0,4700.0
+Karnataka,Davangere,Davangere APMC,Onion,Onion,Local,2026-11-18,4500.0,6000.0,5600.0
+Keralam,Alappuzha,Cherthala Market,Onion,Onion,FAQ,2026-11-18,4000.0,4500.0,4200.0
+Keralam,Ernakulam,Thrippunithura Market,Onion,Big,Medium,2026-11-18,6000.0,6200.0,6000.0
+Haryana,Sonipat,Ganaur APMC,Onion,Onion,FAQ,2026-11-18,3000.0,4000.0,3500.0
+Keralam,Kollam,Anchal Market,Onion,Small,Local,2026-11-18,9000.0,9000.0,9000.0
+Keralam,Kollam,Anchal Market,Onion,Big,Local,2026-11-18,6800.0,6800.0,6800.0
+Rajasthan,Jaipur,Jaipur (F&V) APMC,Onion,Other,FAQ,2026-11-18,1800.0,4000.0,2900.0
+West Bengal,Medinipur(W),Medinipur(West) APMC,Onion,Onion,FAQ,2026-11-18,4400.0,4600.0,4500.0
+Keralam,Kottayam,Kottayam Market,Onion,Big,FAQ,2026-11-18,5600.0,6000.0,5800.0
+Keralam,Kozhikode(Calicut),Kallachi Market,Onion,Big,FAQ,2026-11-18,5600.0,6000.0,5800.0
+Keralam,Palakad,Pattambi Market,Onion,Big,FAQ,2026-11-18,5300.0,5500.0,5400.0
+Keralam,Kottayam,Ettumanoor Market,Onion,Big,FAQ,2026-11-18,5400.0,5800.0,5600.0
+Tamil Nadu,Kallakurichi,Ulundurpet RM,Onion,Bellary,Local,2026-11-18,5000.0,5000.0,5000.0
+Tamil Nadu,Thiruppur,Tiruppur (South) (Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,4800.0,6000.0,5400.0
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,7000.0,6750.0
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,7000.0,6500.0
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6500.0,5750.0
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6500.0,6250.0
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,8600.0,8800.0,8700.0
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,7200.0,7200.0,7200.0
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6500.0,6250.0
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6000.0,6000.0
+Tamil Nadu,Thiruppur,Tiruppur (North) (Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6000.0,5500.0
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6000.0,5500.0
+Tamil Nadu,Dharmapuri,A.Jattihalli(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6600.0,5800.0
+West Bengal,Bankura,Bankura Sadar APMC,Onion,Nasik,FAQ,2026-11-18,4400.0,4800.0,4600.0
+West Bengal,Nadia,Chakdah APMC,Onion,Onion,FAQ,2026-11-18,4900.0,5100.0,5000.0
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,6500.0,6500.0
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,6800.0,6650.0
+Tamil Nadu,Sivagangai,Singampunari(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5200.0,6600.0,5900.0
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,6500.0,6500.0
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,7000.0,6500.0
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6400.0,7000.0,6700.0
+Tamil Nadu,Chengalpet,Nanganallur(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,4500.0,5000.0,4750.0
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Onion,Red,Local,2026-11-18,2500.0,4500.0,3500.0
+Maharashtra,Jalgaon,APMC Bhusaval,Onion,Unhali,Local,2026-11-18,3000.0,4000.0,3500.0
+Maharashtra,Ahilyanagar,APMC Parner,Onion,Red,Local,2026-11-18,1000.0,6000.0,4300.0
+Maharashtra,Ahilyanagar,Newasa(Ghodegaon),Onion,Red,Local,2026-11-18,1500.0,5500.0,4000.0
+Tamil Nadu,Thiruppur,Udumalpettai RM,Onion,Bellary,Local,2026-11-18,6000.0,7000.0,6500.0
+Madhya Pradesh,Mandsaur,Shamgarh APMC,Onion,Onion,Non-FAQ,2026-11-18,1000.0,3680.0,3680.0
+Maharashtra,Nandurbar,APMC Navapur,Onion,Other,Local,2026-11-18,2500.0,4000.0,3000.0
+Maharashtra,Nashik,APMC Yeola,Onion,Unhali,Local,2026-11-18,1760.0,4466.0,3850.0
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Onion,Onion,Local,2026-11-18,4000.0,4500.0,4200.0
+Gujarat,Sabarkantha,Himatnagar(Veg.Market Himatnagar) APMC,Onion,Onion,Local,2026-11-18,4500.0,5000.0,4700.0
+Gujarat,Anand,Khambhat(Veg Yard Khambhat) APMC,Onion,Other,Local,2026-11-18,4000.0,5200.0,4800.0
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Onion,Other,FAQ,2026-11-18,3500.0,5000.0,4250.0
+Gujarat,Morbi,Morbi APMC,Onion,Onion,FAQ,2026-11-18,1500.0,4300.0,2900.0
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,7000.0,6000.0
+Karnataka,Gadag,Gadag APMC,Onion,Onion,Medium,2026-11-18,1000.0,4500.0,3000.0
+Gujarat,Surat,Surat APMC,Onion,Other,FAQ,2026-11-18,1900.0,5400.0,3650.0
+Haryana,Fatehabad,Fatehabad APMC,Onion,Other,Local,2026-11-18,4000.0,4000.0,4000.0
+Punjab,Kapurthala,Kapurthala APMC,Onion,Onion,Medium,2026-11-18,4000.0,4200.0,4100.0
+Maharashtra,Nashik,APMC Lasalgaon,Onion,Unhali,Local,2026-11-18,1651.0,4535.0,4200.0
+Maharashtra,Nashik,APMC Lasalgaon,Onion,Red,FAQ,2026-11-18,1311.0,5700.0,4700.0
+Maharashtra,Nagpur,APMC Hingna,Onion,Red,Local,2026-11-18,3500.0,5000.0,4375.0
+Uttar Pradesh,Sambhal,Muradabad APMC,Onion,Other,FAQ,2026-11-18,2500.0,2500.0,2500.0
+West Bengal,Purba Bardhaman,Kalna APMC,Onion,Local,FAQ,2026-11-18,4300.0,4400.0,4400.0
+Uttarakhand,Udhamsinghnagar,Kicchha APMC,Onion,Nasik,Non-FAQ,2026-11-18,1200.0,1400.0,1300.0
+Uttarakhand,Haridwar,Roorkee APMC,Onion,Other,Medium,2026-11-18,4500.0,6500.0,5500.0
+Bihar,Nalanda,Harnaut APMC,Onion,Onion,Local,2026-11-18,5000.0,5000.0,5000.0
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,5000.0,5000.0
+Maharashtra,Solapur,APMC Mangal Wedha,Onion,Local,Local,2026-11-18,700.0,5500.0,4400.0
+Maharashtra,Solapur,APMC Akluj,Onion,Red,Local,2026-11-18,2000.0,5000.0,3850.0
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6500.0,6250.0
+Maharashtra,Ahilyanagar,"Shree Sairaj Krushi Market, Dist Ahilyanagar",Onion,Local,Local,2026-11-18,2500.0,4900.0,3700.0
+West Bengal,Hooghly,Pandua APMC,Onion,Dry F.A.Q.,FAQ,2026-11-18,3650.0,4125.0,3850.0
+Bihar,Bhojpur,Piro APMC,Onion,Medium,Grade A,2026-11-18,4800.0,4800.0,4800.0
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,Onion,FAQ,2026-11-18,4000.0,4400.0,4200.0
+Uttarakhand,Udhamsinghnagar,Rudrapur APMC,Onion,Other,Medium,2026-11-18,3000.0,4500.0,4000.0
+Bihar,Rohtas,Vikramganj APMC,Onion,1st Sort,Grade A,2026-11-18,4500.0,4500.0,4500.0
+Madhya Pradesh,Neemuch,Neemuch(F&V) APMC,Onion,Onion,Grade B,2026-11-18,1302.0,8622.0,7100.0
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6500.0,6250.0
+Tamil Nadu,Salem,Vazhapadi(Uzhavar Sandhai),Onion,Bellary,Local,2026-11-18,6000.0,6500.0,6250.0
+Tamil Nadu,Vellore,Perampet(Uzhavar Sandhai),Onion,Bellary,Local,2026-11-18,5000.0,5600.0,5300.0
+Punjab,Gurdaspur,Gurdaspur APMC,Onion,Other,Grade A,2026-11-18,4350.0,4350.0,4350.0
+Punjab,Bhatinda,Bathinda APMC,Onion,Other,Grade B,2026-11-18,4000.0,4400.0,4200.0
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,Onion,Grade A,2026-11-18,10000.0,10000.0,10000.0
+West Bengal,Murshidabad,Jangipur APMC,Onion,Bellary,FAQ,2026-11-18,4700.0,4800.0,4750.0
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5500.0,5900.0,5700.0
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,Nasik,FAQ,2026-11-18,4500.0,4700.0,4650.0
+Himachal Pradesh,Mandi,PMY Kangni Mandi,Onion,Onion,FAQ,2026-11-18,3500.0,4200.0,4000.0
+Haryana,Yamuna Nagar,Jagadhri APMC,Onion,Other,FAQ,2026-11-18,3000.0,3500.0,3100.0
+Haryana,Kaithal,Siwan APMC,Onion,Other,FAQ,2026-11-18,4300.0,4500.0,4400.0
+Himachal Pradesh,Kangra,SMY Nagrota Bagwan,Onion,Onion,FAQ,2026-11-18,4000.0,4500.0,4200.0
+Madhya Pradesh,Dhar,Badnawar APMC,Onion,Onion,FAQ,2026-11-18,1550.0,2850.0,2850.0
+Madhya Pradesh,Dhar,Badnawar APMC,Onion,Onion,Non-FAQ,2026-11-18,500.0,2000.0,2000.0
+Haryana,Faridabad,"New Grain Market , Faridabad APMC",Onion,Onion,Local,2026-11-18,2500.0,3500.0,3000.0
+Rajasthan,Sikar,Sikar APMC,Onion,Onion,FAQ,2026-11-18,2000.0,3200.0,2600.0
+Karnataka,Belagavi,Belgaum APMC,Onion,Pusa-Red,Large,2026-11-18,3500.0,6000.0,5000.0
+Andhra Pradesh,Kurnool,Kurnool APMC,Onion,Local,FAQ,2026-11-18,701.0,4319.0,3491.0
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,6500.0,5750.0
+Tamil Nadu,Thiruvallur,Paruthipattu(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6000.0,6000.0,6000.0
+Rajasthan,Jaisalmer,Jaisalmer APMC,Onion,Onion,Grade A,2026-11-18,2800.0,4000.0,3400.0
+West Bengal,Purba Bardhaman,Burdwan APMC,Onion,Nasik,FAQ,2026-11-18,4400.0,4700.0,4600.0
+West Bengal,Sounth 24 Parganas,Diamond Harbour(South 24-pgs) APMC,Onion,Red,FAQ,2026-11-18,4800.0,5000.0,4900.0
+Madhya Pradesh,Katni,Katni(F&V) APMC,Onion,Other,Grade C,2026-11-18,1200.0,2000.0,1351.25
+Chattisgarh,Bilaspur,Tiphra APMC,Onion,Local,Grade B,2026-11-18,3400.0,3900.0,3700.0
+Tamil Nadu,Dindigul,Kodaikkanal(Uzhavar Sandhai),Onion,Bellary,Local,2026-11-18,6000.0,7000.0,6500.0
+Uttarakhand,Haridwar,Haridwar Union APMC,Onion,Onion,FAQ,2026-11-18,3500.0,4000.0,3800.0
+Bihar,Siwan,Maharjganj APMC,Onion,1st Sort,FAQ,2026-11-18,4600.0,4600.0,4600.0
+Punjab,Gurdaspur,Dhariwal APMC,Onion,Onion,Grade A,2026-11-18,1150.0,1150.0,1150.0
+Punjab,Gurdaspur,Dinanagar APMC,Onion,Other,Medium,2026-11-18,4000.0,4500.0,4300.0
+Odisha,Sundergarh,Sargipali APMC,Onion,Other,FAQ,2026-11-18,4900.0,5500.0,5000.0
+Haryana,Panchkula,Raipur Rani APMC,Onion,Onion,Local,2026-11-18,2900.0,3000.0,2900.0
+Keralam,Alappuzha,Kayamkulam Market,Onion,Small,FAQ,2026-11-18,12900.0,13100.0,13000.0
+Andhra Pradesh,YSR Kadapa,Yerraguntla APMC,Onion,Local,FAQ,2026-11-18,2900.0,3300.0,3100.0
+West Bengal,Howrah,Nimdhighi Market,Onion,Nasik,FAQ,2026-11-18,5000.0,5500.0,5200.0
+Punjab,Hoshiarpur,Mukerian(Talwara) APMC,Onion,Onion,FAQ,2026-11-18,3500.0,4500.0,4000.0
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,6500.0,7000.0,6750.0
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad APMC,Onion,Other,FAQ,2026-11-18,2500.0,2500.0,2500.0
+Tamil Nadu,Coimbatore,RSPuram(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5400.0,5800.0,5600.0
+Madhya Pradesh,Sagar,Sagar(F&V) APMC,Onion,Onion,Local,2026-11-18,1500.0,2400.0,1800.0
+Odisha,Bolangir,Tusura APMC,Onion,Other,Medium,2026-11-18,4000.0,5000.0,4500.0
+Telangana,Ranga Reddy,"Vanasthalipuram,RBZ",Onion,Onion,Grade A,2026-11-18,4000.0,4000.0,4000.0
+Tamil Nadu,Cuddalore,Chidambaram(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,5000.0,5000.0,5000.0
+Madhya Pradesh,Ujjain,Ujjain APMC,Onion,Onion,Non-FAQ,2026-11-18,1176.98,3951.0,3951.0
+Madhya Pradesh,Indore,Indore APMC,Onion,Onion,Non-FAQ,2026-11-18,510.0,4129.0,3800.0
+Madhya Pradesh,Indore,Indore APMC,Onion,Other,FAQ,2026-11-18,1773.0,4079.0,3779.0
+Karnataka,Bengaluru,Bengaluru APMC,Onion,Puna,Local,2026-11-18,3500.0,5200.0,4500.0
+Bihar,Siwan,Siwan APMC,Onion,Other,FAQ,2026-11-18,4200.0,4500.0,4400.0
+Madhya Pradesh,Bhopal,Bhopal APMC,Onion,Onion,FAQ,2026-11-18,910.0,4400.0,3200.0
+Madhya Pradesh,Neemuch,Neemuch APMC,Onion,Onion,Non-FAQ,2026-11-18,800.0,3740.0,3401.0
+Telangana,Hyderabad,Mahboob Manison APMC,Onion,Onion,Large,2026-11-18,4100.0,5200.0,4500.0
+Telangana,Hyderabad,Mahboob Manison APMC,Onion,Onion,Small,2026-11-18,1000.0,4000.0,3600.0
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ),Onion,Bellary,Local,2026-11-18,7000.0,8000.0,7500.0
+Tamil Nadu,Kannyiakumari,Vadaseri RM,Onion,Bellary,Local,2026-11-18,8000.0,8500.0,8250.0
+Madhya Pradesh,Agar Malwa,Soyatkalan APMC,Onion,Onion,FAQ,2026-11-18,570.0,3815.0,3005.0
+Madhya Pradesh,Mandsaur,Garoth APMC,Onion,Onion,Non-FAQ,2026-11-18,300.0,3510.0,3000.0
+West Bengal,Birbhum,Rampurhat APMC,Onion,Other,FAQ,2026-11-18,4400.0,4600.0,4500.0
+Himachal Pradesh,Kangra,SMY Palampur,Onion,Onion,FAQ,2026-11-18,4200.0,5000.0,4600.0
+Haryana,Kurukshetra,Thanesar APMC,Onion,Onion,Medium,2026-11-18,3800.0,4600.0,4200.0
+Haryana,Hissar,Hansi APMC,Onion,Other,FAQ,2026-11-18,3500.0,4000.0,3750.0
+Manipur,Kakching,Kakching Market APMC,Onion,Red,FAQ,2026-11-18,7500.0,8000.0,7750.0
